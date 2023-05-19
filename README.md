@@ -8,6 +8,3 @@
 </p>
 
 <br>
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mmdiyul&theme=github_dark&layout=compact">
-</p>
