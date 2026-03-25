@@ -5,7 +5,7 @@ Backend Developer 👨‍💻
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   2 mins                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
