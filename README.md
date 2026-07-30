@@ -1,7 +1,8 @@
-Muhammad Aliyul Murtadlo
+<b>Muhammad Aliyul Murtadlo</b>
 <br>
 Backend Developer 👨‍💻
-<br>
+<br><br>
+My weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
