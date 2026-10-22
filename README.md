@@ -6,8 +6,7 @@ My weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 mins               ███████████████▓░░░░░░░░░   62.40 %
-JSON         14 mins               █████████▒░░░░░░░░░░░░░░░   37.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
