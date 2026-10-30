@@ -6,11 +6,11 @@ My weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 46 mins         ██████████░░░░░░░░░░░░░░░   40.26 %
-TypeScript   2 hrs 30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-Java         1 hr 49 mins          █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-Makefile     52 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Markdown     23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Java         6 hrs 21 mins         ████████████▓░░░░░░░░░░░░   50.20 %
+TypeScript   3 hrs 31 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Other        1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Makefile     52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Markdown     25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
